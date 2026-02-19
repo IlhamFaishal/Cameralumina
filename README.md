@@ -1,6 +1,6 @@
 # 📸 Lumina X1 - Cinematic Brand Experience
 
-![Lumina X1 Banner](./public/readme-assets/screenshot-1.png)
+![Lumina X1 Banner](https://github.com/IlhamFaishal/Cameralumina/blob/main/public/readme-assets/screenshot-1.png?raw=true)
 
 A high-end, immersive brand profile website for the **Lumina X1** cinema camera. Built with **Next.js 15**, **Tailwind CSS v4**, **GSAP**, and **Three.js**, this project aims to deliver an Awwwards-level user experience with cinematic scroll storytelling, 3D interactions, and smooth performance.
 
@@ -21,10 +21,10 @@ A high-end, immersive brand profile website for the **Lumina X1** cinema camera.
 
 ## 🖼️ Gallery
 
-![Product Showcase](./public/readme-assets/screenshot-2.png)
+![Product Showcase](https://github.com/IlhamFaishal/Cameralumina/blob/main/public/readme-assets/screenshot-2.png?raw=true)
 *Product Showcase with GSAP Reveals*
 
-![Horizontal Gallery](./public/readme-assets/screenshot-3.png)
+![Horizontal Gallery](https://github.com/IlhamFaishal/Cameralumina/blob/main/public/readme-assets/screenshot-3.png?raw=true)
 *Smooth Horizontal Scroll Gallery*
 
 ---
